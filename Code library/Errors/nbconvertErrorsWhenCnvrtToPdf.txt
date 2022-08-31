@@ -1,0 +1,2 @@
+Solved:
+https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
